@@ -1,0 +1,17 @@
+    public class seventhProgram {
+
+        public static void main(String args[])
+    {
+        Insan i1 = new Insan(21, "Veli");
+        Insan i2= new Insan(30, "Ali");
+
+        //i1.isim = "Ali;
+        //i1.yas = 19;
+
+        //i2.isim= "Ayşe";
+        //i2.yas = 20;
+
+        System.out.println("İsim: " + i1.isim + " ve yaş: " + i1.getyas());
+        System.out.println("İsim: " + i2.isim + ve yaş: + i2.getyas());
+    }
+ }
